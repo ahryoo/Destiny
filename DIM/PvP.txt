@@ -2,12 +2,15 @@ title: PvP
 
 // Matador
 // Corkscrew Rifling, Accurized Rounds, Threat Detector, Opening Shot
-// notes:
 dimwishlist:item=2563012876&perks=4090651448,3142289711,4071163871,47981717
 
 
 // Elsie's Rifle
 // Smallbore, High-Caliber Rounds, Keep Away, Headseeker, Indomitability
-// notes:
 dimwishlist:item=2372514509&perks=1482024992,1561002382,3619207468,460017080,2489430594
 dimwishlist:item=2372514509&perks=1482024992,1561002382,3198323828,4045335048,2489430594
+
+
+// Hawkmoon
+// Smallbore, Alloy Magazine, Opening Shot, Smooth Grip
+dimwishlist:item=3856705927&perks=1482024992,1431678320,47981717,3326204863
