@@ -113,3 +113,8 @@ dimwishlist:item=1770490683&perks=2801223209,16392701,2848615171,2173046394,1878
 dimwishlist:item=1770490683&perks=2801223209,16392701,169755979,1720528630,1878756191
 
 
+// Whisper Of The Worm
+// Smallbore, Alloy Magazine, No Distractions, Fitted Stock, Whispered Breathing
+dimwishlist:item=1983149589&perks=1482024992,1431678320,777589556,4259401308,3732232161
+// Smallbore, Alloy Magazine, Field Prep, Fitted Stock, Whispered Breathing
+dimwishlist:item=1983149589&perks=1482024992,1431678320,777589559,4259401308,3732232161
