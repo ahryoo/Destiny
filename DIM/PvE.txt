@@ -31,7 +31,7 @@ dimwishlist:item=496728945&perks=4090651448,3230963543,124408337,2848615171,1988
 // Zaouli's Bane / Crafted
 // Corkscrew Rifling, Flared Magwell, Explosive Payload, Incandescent, Runneth Over
 // notes: Legendary Sunshot.
-dimwishlist:item=431721920&perks=4090651448,3230963543,64866129,2675184851,120721526
+dimwishlist:item=431721920&perks=4090651448,3230963543,2675184851,120721526,64866129
 
 
 // Falling Guillotine
@@ -59,6 +59,7 @@ dimwishlist:item=568611921&perks=3525010810,2822142346,3797647183,598607952,2489
 // Quick Launch, Disorienting Grenades, Slideshot, Vorpal Weapons
 // notes: 
 dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,1546637391
+
 
 // Explosive Personality
 // Quick Launch, High-Velocity Rounds, Auto-Loading Holster, Unrelenting, Land Tank
