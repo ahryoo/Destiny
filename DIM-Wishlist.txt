@@ -7,9 +7,11 @@ dimwishlist:item=1679868061&perks=1300023272,106909392,3442762221,788178929
 ################################
 
 The Cull / General
+//notes: Generally good
 dimwishlist:item=3947966653&perks=3525010810,3230963543,3442762221,3418165135
 
 The Cull / Grenade
+//notes: Grenade builds
 dimwishlist:item=3947966653&perks=3525010810,3230963543,1906147653,2422968039
 
 
