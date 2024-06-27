@@ -1,12 +1,14 @@
 title: PvE
 
 // The Cull / General
-//notes: Generally good
+// Quick Launch, Flared Magwell, Lead From Gold, Vorpal Weapons, Dealer's Choice
+// notes: Generally good
 dimwishlist:item=3947966653&perks=3525010810,3230963543,3442762221,3418165135
 
 // The Cull / Grenade
-//
-dimwishlist:item=3947966653&perks=3525010810,3230963543,1906147653,2422968039#notes: Grenade builds
+// Quick Launch, Flared Magwell, Demolitionist, Adrenaline Junkie, Dealer's Choice
+// notes: Grenade builds
+dimwishlist:item=3947966653&perks=3525010810,3230963543,1906147653,2422968039
 
 // Luna's Howl
 dimwishlist:item=2763843899&perks=4090651448,3230963543,3017780555,4293542123
