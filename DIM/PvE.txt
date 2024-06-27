@@ -58,18 +58,21 @@ dimwishlist:item=568611921&perks=3525010810,2822142346,3797647183,598607952,2489
 // Ignition Code
 // Quick Launch, Disorienting Grenades, Slideshot, Vorpal Weapons
 // notes: 
+dimwishlist:item=304659313&perks=3525010810,1716000303,3161816588,1546637391
 dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,1546637391
 
 
-// Explosive Personality
+// Explosive Personality / Crafted
 // Quick Launch, High-Velocity Rounds, Auto-Loading Holster, Unrelenting, Land Tank
 // notes: Waveclear.
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,3108830275,1536798515
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3528046508,855168139,1536798515
 
 
-// Lost Signal
+// Lost Signal / Crafted
 // Quick Launch, High-Velocity Rounds, Auto-Loading Holster, Vorpal Weapons, Radiolaria Transposer
 // notes: Waveclear, Major DPS.
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,1546637391,253121539
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,3418165135,253121539
 
 
@@ -79,20 +82,34 @@ dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,3418165135,25
 dimwishlist:item=568611922&perks=3525010810,3301904089,3528046508,3418165135,2489430594
 
 
-// Apex Predator
-dimwishlist:item=1851777734&perks=3525010810,3796465595,461595545,3744057135
+// Apex Predator / Crafted
+// Quick Launch, Impact Casing, Reconstruction, Bait And Switch, Explosive Pack
+// notes: Boss DPS.
+dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3078487919,1489048135
+dimwishlist:item=1851777734&perks=3525010810,3796465595,461595545,3744057135,1489048135
 
 
 // Succession
-dimwishlist:item=2990047042&perks=839105230,2420895100,461595545,395388285
+// Smallbore, Extended Mag, Reconstruction, Firing Line, Indomitability
+// notes: Group activities with longer boss encounters.
+dimwishlist:item=570866107&perks=1482024992,2420895100,1523832109,1771339417,2489430594
+dimwishlist:item=570866107&perks=1482024992,2420895100,461595545,395388285,2489430594
 
+// Smallbore, Extended Mag, Reconstruction, Vorpal Weapons, Indomitability
+// notes: Solo activities with precition boss encounter.
+dimwishlist:item=570866107&perks=1482024992,2420895100,1523832109,1546637391,2489430594
+dimwishlist:item=570866107&perks=1482024992,2420895100,461595545,3418165135,2489430594
 
 // Wastelander M5
-//notes: One-Two-Punch, Lead From Gold, Tactical Mag, Barrel Shroud
-dimwishlist:item=1679868061&perks=1300023272,106909392,3442762221,788178929
+// Full Choke, Light Mag, Lead From Gold, One-Two Punch, Hot Swap
+// notes:
+dimwishlist:item=1679868061&perks=1047830412,679225683,1556840489,2679249093,1260401931
+dimwishlist:item=1679868061&perks=1047830412,679225683,3442762221,788178929,1260401931
 
 
 // Non-Denuement
-dimwishlist:item=1770490683&perks=2801223209,16392701,169755979,1720528630
+// Elastic String, Compact Arrow Shaft, Dragonfly, Voltshot, Collective Purpose
+dimwishlist:item=1770490683&perks=2801223209,16392701,2848615171,2173046394,1878756191
+dimwishlist:item=1770490683&perks=2801223209,16392701,169755979,1720528630,1878756191
 
 
