@@ -1,5 +1,14 @@
 title: PvE
 
+// No Hesitation
+// Smallbore, Flared Magwell, Demolitionist, Incandescent, Dealers Choice
+dimwishlist:item=1801007332&perks=1482024992,3230963543,3523296417,4293542123,1988485648
+dimwishlist:item=1801007332&perks=1482024992,3230963543,1906147653,2675184851,1988485648
+// Smallbore, Flared Magwell, Strategist, Incandescent, Dealers Choice
+dimwishlist:item=1801007332&perks=1482024992,3230963543,880644845,4293542123,1988485648
+dimwishlist:item=1801007332&perks=1482024992,3230963543,3120212825,2675184851,1988485648
+
+
 // The Cull / Crafted
 // Quick Launch, Flared Magwell, Demolitionist, Adrenaline Junkie, Dealer's Choice
 // notes: Grenade builds.
