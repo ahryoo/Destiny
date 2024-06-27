@@ -37,11 +37,11 @@ dimwishlist:item=431721920&perks=4090651448,3230963543,64866129,2675184851,12072
 // Falling Guillotine
 // Hungry Edge, Swordmaster's Guard, Vorpal Weapons, Eager Edge, Indomitability
 // notes: Eager Edge Movement.
-dimwishlist:item=243425374&perks=436053704,269888150,3418165135,1618208178,2489430594
+dimwishlist:item=1815105249&perks=436053704,269888150,3418165135,1618208178,2489430594
 
 // Hungry Edge, Swordmaster's Guard, Vorpal Weapons, Whirlwind Blade, Indomitabilty
 // notes: Boss DPS.
-dimwishlist:item=243425374&perks=436053704,269888150,3418165135,147913470,2489430594
+dimwishlist:item=1815105249&perks=436053704,269888150,3418165135,147913470,2489430594
 
 // Edge Transit
 dimwishlist:item=568611923&perks=3525010810,3301904089,3300816228,3078487919
