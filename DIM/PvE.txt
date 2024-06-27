@@ -12,13 +12,18 @@ dimwishlist:item=3947966653&perks=3525010810,3230963543,1906147653,2422968039
 
 // Luna's Howl
 // Corkscrew Rifling, Flared Magwell, Heal Clip, Incandescent, Indomitability
+// notes: 
 dimwishlist:item=2763843899&perks=4090651448,3230963543,4223976499,2675184851,2489430594
 
 // Warden's Law
-dimwishlist:item=2152484073&perks=4090651448,2420895100,1354429876,1546637391
+// Smallbore, Flared Magwell, Fourth Time's The Charm, Vanguard's Vindication
+// notes: Hunter Lucky Pants build.
+dimwishlist:item=2152484073&perks=1482024992,3230963543,1354429876,1546637391,744217850
 
 // Bold Endings
-dimwishlist:item=496728945&perks=3250034553,3142289711,1171887445,169755979
+// Corkscrew Rifling, Flared Magwell, Headstone, Dragonfly, Dealer's Choice
+// notes: 
+dimwishlist:item=496728945&perks=4090651448,3230963543,124408337,2848615171,1988485648
 
 // Zaouli's Bane
 dimwishlist:item=431721920&perks=3250034553,3230963543,64866129,2675184851
