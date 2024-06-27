@@ -14,3 +14,11 @@ dimwishlist:item=2372514509&perks=1482024992,1561002382,3198323828,4045335048,24
 // Hawkmoon
 // Smallbore, Alloy Magazine, Opening Shot, Smooth Grip
 dimwishlist:item=3856705927&perks=1482024992,1431678320,47981717,3326204863
+
+// Someday
+// Corkscrew Rifling, Accurized Rounds, Thread Detector, Opening Shot, Dealer's Choice
+dimwishlist:item=3232203524&perks=4090651448,3142289711,4071163871,47981717,1988485648
+dimwishlist:item=3232203524&perks=4090651448,3142289711,494941759,1370847713,1988485648
+// Corkscrew Rifling, Accurized Rounds, Elemental Capacitor, Opening Shot, Dealer's Choice
+dimwishlist:item=3232203524&perks=4090651448,3142289711,3511092054,47981717,1988485648
+dimwishlist:item=3232203524&perks=4090651448,3142289711,711234314,1370847713,1988485648
