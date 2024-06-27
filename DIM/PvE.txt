@@ -68,11 +68,15 @@ dimwishlist:item=4096943616&perks=3525010810,2822142346,3528046508,855168139,153
 
 
 // Lost Signal
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,3418165135
+// Quick Launch, High-Velocity Rounds, Auto-Loading Holster, Vorpal Weapons, Radiolaria Transposer
+// notes: Waveclear, Major DPS.
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,3418165135,253121539
 
 
 // The Mountaintop
-dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,1546637391
+// Quick Launch, Spike Grenades, Auto-Loading Holster, Vorpal Weapons, Indomitability
+// notes: Boss DPS.
+dimwishlist:item=568611922&perks=3525010810,3301904089,3528046508,3418165135,2489430594
 
 
 // Apex Predator
