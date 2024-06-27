@@ -60,6 +60,11 @@ dimwishlist:item=568611921&perks=3525010810,2822142346,3797647183,598607952,2489
 // notes: 
 dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,1546637391
 
+// Explosive Personality
+// Quick Launch, High-Velocity Rounds, Auto-Loading Holster, Unrelenting, Land Tank
+// notes: Waveclear.
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3528046508,855168139,1536798515
+
 
 // Lost Signal
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,3418165135
