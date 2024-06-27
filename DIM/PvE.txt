@@ -56,6 +56,8 @@ dimwishlist:item=568611921&perks=3525010810,2822142346,3797647183,598607952,2489
 
 
 // Ignition Code
+// Quick Launch, Disorienting Grenades, Slideshot, Vorpal Weapons
+// notes: 
 dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,1546637391
 
 
