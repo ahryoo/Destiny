@@ -1,6 +1,6 @@
 title: PvE
 
-// No Hesitation
+// No Hesitation / Crafted
 // Smallbore, Flared Magwell, Demolitionist, Incandescent, Dealers Choice
 dimwishlist:item=1801007332&perks=1482024992,3230963543,3523296417,4293542123,1988485648
 dimwishlist:item=1801007332&perks=1482024992,3230963543,1906147653,2675184851,1988485648
@@ -11,107 +11,92 @@ dimwishlist:item=1801007332&perks=1482024992,3230963543,3120212825,2675184851,19
 
 // The Cull / Crafted
 // Quick Launch, Flared Magwell, Demolitionist, Adrenaline Junkie, Dealer's Choice
-// notes: Grenade builds.
 dimwishlist:item=3947966653&perks=3525010810,3230963543,1906147653,2422968039
-
 // Quick Launch, Flared Magwell, Lead From Gold, Vorpal Weapons, Dealer's Choice
-// notes: Generally good.
 dimwishlist:item=3947966653&perks=3525010810,3230963543,3442762221,3418165135
 
 
 // Luna's Howl
 // Corkscrew Rifling, Flared Magwell, Heal Clip, Incandescent, Indomitability
-// notes: 
 dimwishlist:item=2763843899&perks=4090651448,3230963543,4223976499,2675184851,2489430594
 
 
 // Warden's Law
-// Smallbore, Flared Magwell, Fourth Time's The Charm, Vanguard's Vindication
 // notes: Hunter Lucky Pants build.
+// Smallbore, Flared Magwell, Fourth Time's The Charm, Vanguard's Vindication
 dimwishlist:item=2152484073&perks=1482024992,3230963543,1354429876,1546637391,744217850
 
 
 // Bold Endings
 // Corkscrew Rifling, Flared Magwell, Headstone, Dragonfly, Dealer's Choice
-// notes: 
 dimwishlist:item=496728945&perks=4090651448,3230963543,124408337,2848615171,1988485648
 
 
 // Zaouli's Bane / Crafted
 // Corkscrew Rifling, Flared Magwell, Explosive Payload, Incandescent, Runneth Over
-// notes: Legendary Sunshot.
 dimwishlist:item=431721920&perks=4090651448,3230963543,64866129,2675184851,120721526
 
 
 // Falling Guillotine
 // Hungry Edge, Swordmaster's Guard, Vorpal Weapons, Eager Edge, Indomitability
-// notes: Eager Edge Movement.
 dimwishlist:item=1815105249&perks=436053704,269888150,3418165135,1618208178,2489430594
-
 // Hungry Edge, Swordmaster's Guard, Vorpal Weapons, Whirlwind Blade, Indomitabilty
-// notes: Boss DPS.
 dimwishlist:item=1815105249&perks=436053704,269888150,3418165135,147913470,2489430594
 
 // Edge Transit
 // Quick Launch, Spike Grenades, Auto-Loading Holster, Bait And Switch, Indomitabilty
-// notes: Boss DPS.
 dimwishlist:item=568611923&perks=3525010810,3301904089,3528046508,3744057135,2489430594
 
 
 // Forbearance / Crafted
-// Quick Launch, High-Velocity Rounds, Ambitious Assassin, Chain Reaction, Indomitabilty
 // notes: Waveclear. Needs manual reloading.
+// Quick Launch, High-Velocity Rounds, Ambitious Assassin, Chain Reaction, Indomitabilty
 dimwishlist:item=568611921&perks=3525010810,2822142346,3797647183,598607952,2489430594
 
 
 // Ignition Code
 // Quick Launch, Disorienting Grenades, Slideshot, Vorpal Weapons
-// notes: 
 dimwishlist:item=304659313&perks=3525010810,1716000303,3161816588,1546637391
 dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,1546637391
 
 
 // Explosive Personality / Crafted
-// Quick Launch, High-Velocity Rounds, Auto-Loading Holster, Unrelenting, Land Tank
 // notes: Waveclear.
+// Quick Launch, High-Velocity Rounds, Auto-Loading Holster, Unrelenting, Land Tank
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,3108830275,1536798515
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3528046508,855168139,1536798515
 
 
 // Lost Signal / Crafted
-// Quick Launch, High-Velocity Rounds, Auto-Loading Holster, Vorpal Weapons, Radiolaria Transposer
 // notes: Waveclear, Major DPS.
+// Quick Launch, High-Velocity Rounds, Auto-Loading Holster, Vorpal Weapons, Radiolaria Transposer
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,1546637391,253121539
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,3418165135,253121539
 
 
 // The Mountaintop
-// Quick Launch, Spike Grenades, Auto-Loading Holster, Vorpal Weapons, Indomitability
 // notes: Boss DPS.
+// Quick Launch, Spike Grenades, Auto-Loading Holster, Vorpal Weapons, Indomitability
 dimwishlist:item=568611922&perks=3525010810,3301904089,3528046508,3418165135,2489430594
 
 
 // Apex Predator / Crafted
-// Quick Launch, Impact Casing, Reconstruction, Bait And Switch, Explosive Pack
 // notes: Boss DPS.
+// Quick Launch, Impact Casing, Reconstruction, Bait And Switch, Explosive Pack
 dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3078487919,1489048135
 dimwishlist:item=1851777734&perks=3525010810,3796465595,461595545,3744057135,1489048135
 
 
 // Succession
 // Smallbore, Extended Mag, Reconstruction, Firing Line, Indomitability
-// notes: Group activities with longer boss encounters.
 dimwishlist:item=570866107&perks=1482024992,2420895100,1523832109,1771339417,2489430594
 dimwishlist:item=570866107&perks=1482024992,2420895100,461595545,395388285,2489430594
-
 // Smallbore, Extended Mag, Reconstruction, Vorpal Weapons, Indomitability
-// notes: Solo activities with precition boss encounter.
 dimwishlist:item=570866107&perks=1482024992,2420895100,1523832109,1546637391,2489430594
 dimwishlist:item=570866107&perks=1482024992,2420895100,461595545,3418165135,2489430594
 
 // Wastelander M5
 // Full Choke, Light Mag, Lead From Gold, One-Two Punch, Hot Swap
-// notes:
 dimwishlist:item=1679868061&perks=1047830412,679225683,1556840489,2679249093,1260401931
 dimwishlist:item=1679868061&perks=1047830412,679225683,3442762221,788178929,1260401931
 
