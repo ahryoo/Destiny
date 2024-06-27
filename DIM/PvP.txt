@@ -22,3 +22,4 @@ dimwishlist:item=3232203524&perks=4090651448,3142289711,4071163871,47981717,1988
 // Corkscrew Rifling, Accurized Rounds, Elemental Capacitor, Opening Shot, Dealer's Choice
 
 dimwishlist:item=3232203524&perks=4090651448,3142289711,711234314,1370847713,1988485648
+
