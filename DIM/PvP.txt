@@ -23,3 +23,7 @@ dimwishlist:item=3232203524&perks=4090651448,3142289711,4071163871,47981717,1988
 
 dimwishlist:item=3232203524&perks=4090651448,3142289711,711234314,1370847713,1988485648
 
+
+// Shayura's Wrath (Adept)
+// Corkscrew Rifling, Ricochet Rounds, Zen Moment, High-Impact Reserves, Alacrity
+dimwishlist:item=501345268&perks=4090651448,1885400500,1748774930,2002547233,2988596335
