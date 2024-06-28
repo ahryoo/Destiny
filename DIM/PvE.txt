@@ -5,6 +5,8 @@ title: PvE
 dimwishlist:item=1801007332&perks=1482024992,3230963543,3523296417,4293542123,1988485648
 // Smallbore, Flared Magwell, Strategist, Incandescent, Dealers Choice
 dimwishlist:item=1801007332&perks=1482024992,3230963543,880644845,4293542123,1988485648
+// Smallbore, Flared Magwell, Physic, Incandescent, Dealers Choice
+dimwishlist:item=1801007332&perks=1482024992,3230963543,2980589453,4293542123,1988485648
 
 
 // The Cull / Crafted
