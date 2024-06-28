@@ -1,5 +1,12 @@
 title: PvE
 
+// Timeworn Wayfarer / Crafted
+// Smallbore, Flared Magwell, Heal Clip, Incandescent, Radiolaria Transposer
+dimwishlist:item=1058098236&perks=1482024992,3230963543,3017780555,4293542123,253121539
+//  Smallbore, Flared Magwell, Strategist, Incandescent, Radiolaria Transposer
+dimwishlist:item=1058098236&perks=1482024992,3230963543,880644845,4293542123,253121539
+
+
 // Imminence / Crafted
 // notes: Threadling build.
 // Smallbore, Flared Magwell, Demolitionist, Hatchling, Collective Purpose
