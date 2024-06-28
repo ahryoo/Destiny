@@ -1,6 +1,15 @@
 title: PvP
 
 
+// Forgiveness
+// Smallbore, High-Caliber Rounds, Moving Target, Rapid Hit, Alacrity
+dimwishlist:item=2405619467&perks=1482024992,1561002382,588594999,247725512,2988596335
+dimwishlist:item=2345794502&perks=1482024992,1561002382,588594999,247725512,2988596335
+// Smallbore, High-Caliber Rounds, Killing Wind, Rapid Hit, Alacrity
+dimwishlist:item=2345794502&perks=1482024992,1561002382,2450788523,247725512,2988596335
+dimwishlist:item=2405619467&perks=1482024992,1561002382,2450788523,247725512,2988596335
+
+
 // Luna's Howl
 // Hammer-Forged Rifling, High-Caliber Rounds, Slideshot, Opening Shot, Indomitability
 dimwishlist:item=2763843899&perks=3250034553,1561002382,3161816588,47981717,2489430594
