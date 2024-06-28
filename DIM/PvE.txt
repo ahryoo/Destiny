@@ -1,5 +1,12 @@
 title: PvE
 
+// Tyranny Of Heaven
+// Elastic String, Compact Arrow Shaft, Dragonfly, Incandescent, Explosive Pact
+dimwishlist:item=3388655311&perks=2801223209,16392701,2848615171,4293542123,1489048135
+// Elastic String, Compact Arrow Shaft, Wellspring, Incandescent, Explosive Pact
+dimwishlist:item=3388655311&perks=2801223209,16392701,3592538738,4293542123,1489048135
+
+
 // Timeworn Wayfarer / Crafted
 // Smallbore, Flared Magwell, Heal Clip, Incandescent, Radiolaria Transposer
 dimwishlist:item=1058098236&perks=1482024992,3230963543,3017780555,4293542123,253121539
