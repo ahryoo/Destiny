@@ -1,6 +1,6 @@
 title: PvE
 
-// Imminence
+// Imminence / Crafted
 // notes: Threadling build.
 // Smallbore, Flared Magwell, Demolitionist, Hatchling, Collective Purpose
 dimwishlist:item=1258168956&perks=1482024992,3230963543,3523296417,831391274,1878756191
