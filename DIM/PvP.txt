@@ -8,7 +8,6 @@ dimwishlist:item=2563012876&perks=4090651448,3142289711,4071163871,47981717
 // Elsie's Rifle
 // Smallbore, High-Caliber Rounds, Keep Away, Headseeker, Indomitability
 dimwishlist:item=2372514509&perks=1482024992,1561002382,3619207468,460017080,2489430594
-dimwishlist:item=2372514509&perks=1482024992,1561002382,3198323828,4045335048,2489430594
 
 
 // Hawkmoon
@@ -18,12 +17,10 @@ dimwishlist:item=3856705927&perks=1482024992,1431678320,47981717,3326204863
 // Someday
 // Corkscrew Rifling, Accurized Rounds, Thread Detector, Opening Shot, Dealer's Choice
 dimwishlist:item=3232203524&perks=4090651448,3142289711,4071163871,47981717,1988485648
-
 // Corkscrew Rifling, Accurized Rounds, Elemental Capacitor, Opening Shot, Dealer's Choice
-
-dimwishlist:item=3232203524&perks=4090651448,3142289711,711234314,1370847713,1988485648
+dimwishlist:item=3232203524&perks=4090651448,3142289711,3511092054,47981717,1988485648
 
 
 // Shayura's Wrath (Adept)
-// Corkscrew Rifling, Ricochet Rounds, Zen Moment, High-Impact Reserves, Alacrity
-dimwishlist:item=501345268&perks=4090651448,1885400500,1748774930,2002547233,2988596335
+// Corkscrew Rifling, High-Caliber Rounds, Zen Moment, High-Impact Reserves, Alacrity
+dimwishlist:item=501345268&perks=4090651448,1561002382,1748774930,2002547233,2988596335
