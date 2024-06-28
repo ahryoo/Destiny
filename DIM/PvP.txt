@@ -1,8 +1,25 @@
 title: PvP
 
+
+// Igneous Hammer
+// Smallbore, Ricochet Rounds, Rangefinder, Opening Shot
+dimwishlist:item=2314610827&perks=1482024992,1885400500,2846385770,47981717
+dimwishlist:item=1973107014&perks=1482024992,1885400500,2846385770,47981717
+// Smallbore, High-Caliber Rounds, Rangefinder, Opening Shot
+dimwishlist:item=1973107014&perks=1482024992,1561002382,2846385770,47981717
+dimwishlist:item=2314610827&perks=1482024992,1561002382,2846385770,47981717
+// Smallbore, Ricochet Rounds, Rapid Hit, Opening Shot
+dimwishlist:item=1973107014&perks=1482024992,1885400500,247725512,47981717
+dimwishlist:item=2314610827&perks=1482024992,1885400500,247725512,47981717
+// Smallbore, High-Caliber Rounds, Rapid Hit, Opening Shot
+dimwishlist:item=1973107014&perks=1482024992,1561002382,247725512,47981717
+dimwishlist:item=2314610827&perks=1482024992,1561002382,247725512,47981717
+
+
 // Fractethyst
 // Corkscrew Rifling, Accurized Rounds, Quickdraw, Opening Shot
 dimwishlist:item=3184681056&perks=4090651448,3142289711,706527188,47981717
+
 
 // Shayura's Wrath
 // Smallbore, Ricochet Rounds, Zen Moment, High-Impact Reserves, Alacrity
