@@ -1,5 +1,10 @@
 title: PvE
 
+// The Supremacy
+// Smallbore, Extended Mag, Rewind Rounds, Fourht Time's The Charm, Explosive Pact
+dimwishlist:item=2884596447&perks=1482024992,2420895100,3418782618,1354429876,1489048135
+
+
 // Tyranny Of Heaven
 // Elastic String, Compact Arrow Shaft, Dragonfly, Incandescent, Explosive Pact
 dimwishlist:item=3388655311&perks=2801223209,16392701,2848615171,4293542123,1489048135
