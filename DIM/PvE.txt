@@ -41,6 +41,7 @@ dimwishlist:item=1815105249&perks=436053704,269888150,3418165135,1618208178,2489
 // Hungry Edge, Swordmaster's Guard, Vorpal Weapons, Whirlwind Blade, Indomitabilty
 dimwishlist:item=1815105249&perks=436053704,269888150,3418165135,147913470,2489430594
 
+
 // Edge Transit
 // Quick Launch, Spike Grenades, Auto-Loading Holster, Bait And Switch, Indomitabilty
 dimwishlist:item=568611923&perks=3525010810,3301904089,3528046508,3744057135,2489430594
@@ -83,21 +84,29 @@ dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3078487919,14
 
 // Succession
 // Smallbore, Extended Mag, Reconstruction, Firing Line, Indomitability
-dimwishlist:item=570866107&perks=1482024992,2420895100,1523832109,1771339417,2489430594
+dimwishlist:item=3612338554&perks=1482024992,2420895100,1523832109,1771339417,2489430594
 // Smallbore, Extended Mag, Reconstruction, Vorpal Weapons, Indomitability
-dimwishlist:item=570866107&perks=1482024992,2420895100,1523832109,1546637391,2489430594
+dimwishlist:item=3612338554&perks=1482024992,2420895100,1523832109,1546637391,2489430594
 
-// Wastelander M5
+
+// Succession / Crafted
+// Smallbore, Extended Mag, Reconstruction, Firing Line, Bray Inheritance
+dimwishlist:item=2990047042&perks=1482024992,2420895100,1523832109,1771339417,766321425
+// Smallbore, Extended Mag, Reconstruction, Vorpal Weapons, Bray Inheritance
+dimwishlist:item=2990047042&perks=1482024992,2420895100,1523832109,1546637391,766321425
+
+
+// Wastelander M5 / Crafted
 // Full Choke, Light Mag, Lead From Gold, One-Two Punch, Hot Swap
 dimwishlist:item=1679868061&perks=1047830412,679225683,1556840489,2679249093,1260401931
 
 
-// Non-Denuement
+// Non-Denuement / Crafted
 // Elastic String, Compact Arrow Shaft, Dragonfly, Voltshot, Collective Purpose
 dimwishlist:item=1770490683&perks=2801223209,16392701,2848615171,2173046394,1878756191
 
 
-// Whisper Of The Worm
+// Whisper Of The Worm / Crafted
 // Smallbore, Alloy Magazine, No Distractions, Fitted Stock, Whispered Breathing
 dimwishlist:item=1983149589&perks=1482024992,1431678320,777589556,4259401308,3732232161
 // Smallbore, Alloy Magazine, Field Prep, Fitted Stock, Whispered Breathing
