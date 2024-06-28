@@ -1,5 +1,17 @@
 title: PvE
 
+// Imminence
+// notes: Threadling build.
+// Smallbore, Flared Magwell, Demolitionist, Hatchling, Collective Purpose
+dimwishlist:item=1258168956&perks=1482024992,3230963543,3523296417,831391274,1878756191
+
+
+// Breachlight
+// notes: Threadling build.
+// Smallbore, Flared Magwell, Demolitionist, Hatchling, Cast No Shadows
+dimwishlist:item=2328923181&perks=1482024992,3230963543,3523296417,831391274,2838996248
+
+
 // No Hesitation / Crafted
 // Smallbore, Flared Magwell, Demolitionist, Incandescent, Dealers Choice
 dimwishlist:item=1801007332&perks=1482024992,3230963543,3523296417,4293542123,1988485648
