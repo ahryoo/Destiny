@@ -54,8 +54,9 @@ dimwishlist:item=2763843899&perks=4090651448,3230963543,4223976499,2675184851,24
 
 // Warden's Law
 // notes: Hunter Lucky Pants build.
-// Smallbore, Flared Magwell, Fourth Time's The Charm, Vanguard's Vindication
+// Smallbore, Flared Magwell, Fourth Time's The Charm, Vorpal Weapons, Vanguard's Vindication
 dimwishlist:item=2152484073&perks=1482024992,3230963543,1354429876,1546637391,744217850
+dimwishlist:item=267089201&perks=1482024992,3230963543,1354429876,1546637391,744217850
 
 
 // Bold Endings / Crafted
