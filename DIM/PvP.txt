@@ -1,6 +1,13 @@
 title: PvP
 
 
+// Midnight Coup
+// Hammer-Forged Rifling, Accurized Rounds, Explosive Payload, Opening Shot, Inodmitability
+dimwishlist:item=2763843898&perks=3250034553,3142289711,3038247973,47981717,2489430594
+// Hammer-Forged Rifling, Accurized Rounds, Explosive Payload, Rampage, Inodmitability
+dimwishlist:item=2763843898&perks=3250034553,3142289711,3038247973,3425386926,2489430594
+
+
 // Igneous Hammer
 // Smallbore, Ricochet Rounds, Rangefinder, Opening Shot
 dimwishlist:item=2314610827&perks=1482024992,1885400500,2846385770,47981717
