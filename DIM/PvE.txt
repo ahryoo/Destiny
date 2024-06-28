@@ -52,7 +52,7 @@ dimwishlist:item=1801007332&perks=1482024992,3230963543,880644845,4293542123,198
 dimwishlist:item=1801007332&perks=1482024992,3230963543,2980589453,4293542123,1988485648
 
 
-// The Cull / Crafted
+// The Call / Crafted
 // Quick Launch, Flared Magwell, Demolitionist, Adrenaline Junkie, Dealer's Choice
 dimwishlist:item=3947966653&perks=3525010810,3230963543,1906147653,2422968039
 // Quick Launch, Flared Magwell, Lead From Gold, Vorpal Weapons, Dealer's Choice
