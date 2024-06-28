@@ -25,7 +25,7 @@ dimwishlist:item=2763843899&perks=4090651448,3230963543,4223976499,2675184851,24
 dimwishlist:item=2152484073&perks=1482024992,3230963543,1354429876,1546637391,744217850
 
 
-// Bold Endings
+// Bold Endings / Crafted
 // Corkscrew Rifling, Flared Magwell, Headstone, Dragonfly, Dealer's Choice
 dimwishlist:item=496728945&perks=4090651448,3230963543,124408337,2848615171,1988485648
 
