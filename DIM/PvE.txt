@@ -95,7 +95,7 @@ dimwishlist:item=1815105249&perks=436053704,269888150,3418165135,147913470,24894
 
 // Edge Transit
 // Quick Launch, Spike Grenades, Auto-Loading Holster, Bait And Switch, Indomitabilty
-dimwishlist:item=568611923&perks=3525010810,3301904089,3528046508,3744057135,2489430594
+dimwishlist:item=2228325504&perks=3525010810,3301904089,3300816228,3078487919,2489430594
 
 
 // Forbearance / Crafted
