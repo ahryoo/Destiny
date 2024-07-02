@@ -1,6 +1,11 @@
 title: PvE
 
 
+// Hammerhead
+// Smallbore, Extended Mag, Envious Assassin, Killing Tally, Indomitability
+dimwishlist:item=1896309757&perks=1482024992,2420895100,968510818,557221067,2489430594
+
+
 // Midnight Coup
 // Hammer-Forged Rifling, Flared Magwell, Firefly, Rampage
 dimwishlist:item=2763843898&perks=3250034553,3230963543,3824105627,3425386926,2489430594
