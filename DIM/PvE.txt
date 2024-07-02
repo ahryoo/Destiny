@@ -1,6 +1,13 @@
 title: PvE
 
 
+// Tusk Of The Boar
+// Quick Launch, High-Velocity Rounds, Slideways, Chain Reaction, Field Tested
+dimwishlist:item=1218113510&perks=3525010810,2822142346,2039302152,2396489472,2120661319
+// Quick Launch, High-Velocity Rounds, Slideways, Hatchling, Field Tested
+dimwishlist:item=1218113510&perks=3525010810,2822142346,2039302152,831391274,2120661319
+
+
 // Hammerhead
 // Smallbore, Extended Mag, Envious Assassin, Killing Tally, Indomitability
 dimwishlist:item=1896309757&perks=1482024992,2420895100,968510818,557221067,2489430594
