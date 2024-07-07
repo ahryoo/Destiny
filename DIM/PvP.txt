@@ -1,6 +1,11 @@
 title: PvP
 
 
+// Dead Man's Tale / Crafted
+// Smallbore, High-Caliber Rounds, Moving Target, Hand-Laid Stock, Dark-Forged Trigger
+dimwishlist:item=2188764214&perks=1482024992,1561002382,588594999,990298390,499501121
+
+
 // Multimach CCX
 // Smallbore, Accurized Rounds, Rangefinder, Iron Reach, Field-Tested
 dimwishlist:item=3211624072&perks=1482024992,3142289711,2846385770,591790007,2120661319
